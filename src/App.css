@@ -1,0 +1,19 @@
+.name {
+    color: #ffff;
+}
+.hd-text {
+    font-size: 16px;
+    margin: 0;
+    padding-top: 15px;
+    color: #ffff;
+}
+.text {
+    font-size: 10px;
+    margin: 0;
+    color: #DCDCDC;
+}
+
+.icon {
+    text-decoration: none;
+    color: #918E9B;
+}
